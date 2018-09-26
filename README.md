@@ -1,5 +1,5 @@
 # NeuronDatabaseExplorationAndAnalysis
 This project explores the usefulness of a new system for Augmented Reality interaction with online databases. Specifically, this project uses data from the NeuroMorpho database (NeuroMorpho.org), a website, and the Microsoft Hololens to create a new way for users to explore, interact, and compare neuron structures in augmented reality space.
 
-[[images/Overview.jpg|alt=overview]]
-[[images/NeuronWebsite_1.PNG|alt=AR View]]
+![](https://github.com/ImmersiveAnalyticsUNCC/NeuronDatabaseExplorationAndAnalysis/blob/master/Overview.jpg)
+![](https://github.com/ImmersiveAnalyticsUNCC/NeuronDatabaseExplorationAndAnalysis/blob/master/NeuronWebsite_1.PNG)
